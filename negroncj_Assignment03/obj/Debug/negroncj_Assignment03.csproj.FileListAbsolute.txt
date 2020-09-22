@@ -1,0 +1,7 @@
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\bin\Debug\negroncj_Assignment03.exe.config
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\bin\Debug\negroncj_Assignment03.exe
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\bin\Debug\negroncj_Assignment03.pdb
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\obj\Debug\negroncj_Assignment03.csprojAssemblyReference.cache
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\obj\Debug\negroncj_Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\obj\Debug\negroncj_Assignment03.exe
+C:\Users\sonyc\source\repos\negroncj_Assignment03\negroncj_Assignment03\obj\Debug\negroncj_Assignment03.pdb
